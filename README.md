@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 -🤖️An AI student at the University of Manchester  
--👨‍💻Coding lover, can code with python, java, C, C++, PHP, MySQL and hope more in the future  
+-👨‍💻Coding lover, can code with python, java, C, C++, PHP, MySQL a little Haskell and hope more in the future  
 -📖A passionate growing programmer eager to embrace more knowledges  
 -🏀Big basketball fan, if you are a Steph Curry lover then we are best friends😊
 
