@@ -1,8 +1,8 @@
 ### Hi there 👋
 
--🤖️An AI student at the University of Manchester. 
+-🤖️An AI student at the University of Manchester  
 -📖A passionate growing programmer eager to embrace more knowledges. 
--🏀Big basketball fan, if you are a Steph Curry lover then we are best friends😊. 
+-🏀Big basketball fan, if you are a Steph Curry lover then we are best friends😊
 
 
 
