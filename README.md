@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Ruotong Ding👋
 
 -🤖️An AI student at the University of Manchester  
 -👨‍💻Coding lover, can code with python, java, C, C++, PHP, MySQL, a little Haskell, and hope more in the future  
